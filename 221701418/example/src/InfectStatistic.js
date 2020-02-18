@@ -8,7 +8,7 @@
 // -province 指定列出的省，如-province 福建，则只列出福建，-province 全国 浙江则只会列出全国、浙江
 // 注：java InfectStatistic表示执行主类InfectStatistic，list为命令，-date代表该命令附带的参数，
 // -date后边跟着具体的参数值，如2020-01-22。-type 的多个参数值会用空格分离，每个命令参数都在上方给出了描述，
-// 每个命令都会携带一到多个命令参数
+
 var filesTool = require('./Lib');
 
 //0.数据处理
